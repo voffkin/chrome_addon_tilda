@@ -8,7 +8,7 @@
 export default {
   data() {
     return {
-      msg: '1.0.01!'
+      msg: '1.0.2'
     }
   }
 }

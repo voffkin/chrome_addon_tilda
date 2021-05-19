@@ -1,5 +1,7 @@
 # Tilda mark blocks
 
+Плагин читает файл https://dc.ria.ru/ips/t/lib/plugin/list.json
+
 ## Scripts
 
 ```json
